@@ -1,2 +1,2 @@
 # demo-repo
-Programming Journal
+Programming Journal.
